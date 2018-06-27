@@ -1,6 +1,6 @@
 # Prueba técnica para **DATANK** de Harland Lohora.
 
-## Proyecto para el intercambio de mensajes en tiempo real desde cliente web como cliente en terminal.
+## Proyecto para el intercambio de mensajes en tiempo real desde cliente web y cliente en terminal.
 
 ## Las tecnologías usadas son:
 
